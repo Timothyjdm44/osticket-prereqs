@@ -24,11 +24,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Remote Desktop Connection to your Windows 10 Virtual Machine
+- Install / Enable Internet Information Services in Windows With CGI
+- Download and install PHP Manager for internet information Services
+- Download and install the Rewrite Module
+- Create the directory C:\PHP
+- Download PHP 7.3.8 and unzip the contents into C:\PHP
+- Download and install VC_redist.x86.exe
+- download and install MySQL 5.5.62
+- Open IIS as an Admin and register PHP from within IIS
+- Install osTicket v1.15.8
+- Download and install HeidiSQL
+- Continue setting up osTicket in the browser
 
 <h2>Installation Steps</h2>
 
