@@ -44,7 +44,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, we will be connecting to our VM through a Remote Desktop connection. Go to the VM on the Azure Portal > Copy Public IP Address > Connect with RDC to do this.
+
+
 </p>
 <br />
 
