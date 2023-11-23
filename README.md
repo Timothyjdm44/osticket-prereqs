@@ -52,9 +52,9 @@ First, we will be connecting to our VM through a Remote Desktop connection. Go t
 
 ![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/ba16a325-342d-4214-a00d-04a548090dd7)
 
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Paste the link into the browser inside of your VM.
+
+https://drive.google.com/drive/folders/1DABjdlQAXxIvWIURTiBelD0rw6IzLNru
 </p>
 <br />
 
