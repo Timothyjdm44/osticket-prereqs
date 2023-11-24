@@ -66,3 +66,6 @@ Go to the Programs section in the Control Panel and click on "Turn Windows featu
 
 ![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/6fc52af2-3a7f-4ded-81f9-4ca75cf3757d)
 
+![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/54c1b438-4d72-4df7-805b-35fe7851f2e2)
+
+
