@@ -75,3 +75,19 @@ After you install IIS, open a new browser and type into the search bar "127.0.0.
 Download and install PHPManagerForIIS_V1.5.0.msi and rewrite_amd64_en-US.msi from the install folders in the other web browser.
 
 ![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/5a618b79-f590-4b15-98e2-1dd47165386f)
+
+Next, create a new directory in your C drive called PHP or C:\PHP.
+
+![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/559345a0-df75-4861-b653-9aabfdaee1ff)
+
+Now, download and install php-7.3.8-nts-Win32-VC15-x86.zip and then extract all the contents into C:\PHP.
+
+![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/cdc48559-e620-4cc6-987c-47f60a132437)
+
+Download and install VC_redist.x86.exe.
+
+Download and install mysql-5.5.62-win32.msi
+
+Typical Setup > Launch Wizard > Standard Configuration > Next > Set the password to "Password1" > Execute
+
+![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/0dc28303-dce2-4828-8704-fe853a12c054)
