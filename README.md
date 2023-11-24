@@ -71,3 +71,5 @@ Go to the Programs section in the Control Panel and click on "Turn Windows featu
 After you install IIS, open a new browser and type into the search bar "127.0.0.1". The IIS page should pop up, but if you do not see it, you must go back to the control panel to ensure CGI is checked.
 
 ![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/81e09527-949d-4e1b-b7db-c6d7e0d54e1f)
+
+Download and install PHPManagerForIIS_V1.5.0.msi and rewrite_amd64_en-US.msi from the install folders in the other web browser.
