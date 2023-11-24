@@ -64,4 +64,5 @@ https://drive.google.com/drive/folders/1DABjdlQAXxIvWIURTiBelD0rw6IzLNru
 Go to the Programs section in the Control Panel and click on "Turn Windows features on or off."
 
 
-<br />
+![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/6fc52af2-3a7f-4ded-81f9-4ca75cf3757d)
+
