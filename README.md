@@ -73,3 +73,5 @@ After you install IIS, open a new browser and type into the search bar "127.0.0.
 ![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/81e09527-949d-4e1b-b7db-c6d7e0d54e1f)
 
 Download and install PHPManagerForIIS_V1.5.0.msi and rewrite_amd64_en-US.msi from the install folders in the other web browser.
+
+![image](https://github.com/Timothyjdm44/osticket-prereqs/assets/142111972/5a618b79-f590-4b15-98e2-1dd47165386f)
